@@ -9,13 +9,14 @@ Todo funciona en tu navegador, sin instalar nada y sin enviar tus datos a ningú
 
 ## Cómo usarlo
 
-1. Descargá el archivo **`index.html`**: abrilo en esta página y tocá el botón de descarga (↓ "Download raw file"),
-   o descargá todo el repositorio con **Code → Download ZIP**.
-2. Abrí `index.html` con doble clic en Chrome, Edge o Firefox (también funciona en el celular).
-3. Elegí el lugar, la fecha, la hora y personalizá el diseño.
-4. Tocá **"Descargar imagen en alta resolución"**: baja un PNG a 300 dpi listo para imprimir.
+### 👉 [Abrir el generador online](https://eddevita.github.io/mapa-estrellas/)
 
-> Se necesita internet solo para cargar las tipografías. Sin conexión funciona igual, con otra letra.
+1. Entrá al link de arriba desde la compu o el celular.
+2. Elegí el lugar, la fecha, la hora y personalizá el diseño.
+3. Tocá **"Descargar imagen en alta resolución"**: baja un PNG a 300 dpi listo para imprimir.
+
+¿Lo querés usar sin internet? Descargá el archivo **`index.html`** (botón ↓ *Download raw file*)
+y abrilo con doble clic. Sin conexión funciona igual, solo cambia la tipografía.
 
 ## Qué se puede personalizar
 
